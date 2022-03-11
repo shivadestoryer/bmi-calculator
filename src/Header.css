@@ -1,0 +1,17 @@
+.header {
+    position:absolute;
+    top:100px;
+}
+
+.var1{
+    position:absolute;
+    left: 800px;
+}
+.var3{
+    position:absolute;
+    left: 400px;
+
+}
+.var3:hover{
+    background-color: rgb(135, 135, 240);
+}
